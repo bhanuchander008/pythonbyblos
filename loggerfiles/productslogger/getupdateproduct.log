@@ -1,0 +1,86 @@
+2019-04-26 14:35:29,673 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 15:00:54,006 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-04-26 15:21:34,860 - getupdateproducts - WARNING - name 'json' is not defined
+2019-04-26 15:22:30,432 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 15:22:51,391 - getupdateproducts - WARNING - (MySQLdb._exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE products.id = 6' at line 1") [SQL: 'UPDATE products SET  WHERE products.id = %s'] [parameters: (6,)]
+2019-04-26 15:27:26,763 - getupdateproducts - WARNING - (MySQLdb._exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE products.id = 6' at line 1") [SQL: 'UPDATE products SET  WHERE products.id = %s'] [parameters: (6,)]
+2019-04-26 15:29:27,434 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 15:30:35,481 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:11:19,754 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:11:33,775 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:12:10,445 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:12:20,979 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:12:30,769 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:12:39,173 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:13:31,033 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:13:38,379 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:27:48,516 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:29:57,560 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:30:25,439 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:31:24,798 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 16:55:15,054 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-04-26 16:57:16,359 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-04-26 16:57:33,347 - getupdateproducts - WARNING - 'NoneType' object is not iterable
+2019-04-26 16:58:03,995 - getupdateproducts - WARNING - 'NoneType' object is not iterable
+2019-04-26 16:58:39,405 - getupdateproducts - WARNING - 'NoneType' object is not iterable
+2019-04-26 17:00:35,767 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 17:50:32,739 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 17:51:02,300 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 17:52:06,282 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 17:53:09,434 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 17:54:05,020 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 17:54:56,350 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 17:55:16,572 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-26 17:55:39,168 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 11:45:24,128 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-04-30 11:48:37,900 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 11:50:15,250 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 16:04:55,006 - getupdateproducts - WARNING - no data found on this id
+2019-04-30 16:05:01,396 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-04-30 16:08:08,389 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-04-30 16:08:30,742 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-04-30 16:08:45,049 - getupdateproducts - WARNING - 'NoneType' object is not iterable
+2019-04-30 16:10:30,353 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-04-30 16:25:08,208 - getupdateproducts - WARNING - (MySQLdb._exceptions.OperationalError) (1054, "Unknown column 'productId' in 'field list'") [SQL: 'UPDATE products SET id = `productId`=%s, `productEn`=%s WHERE products.id = %s'] [parameters: (1, 'tam', 3)]
+2019-04-30 16:27:34,152 - getupdateproducts - WARNING - name 'obj' is not defined
+2019-04-30 16:28:52,772 - getupdateproducts - WARNING - (MySQLdb._exceptions.OperationalError) (1054, "Unknown column 'productId' in 'field list'") [SQL: 'UPDATE products SET id = `productId`=%s, `productEn`=%s WHERE products.id = %s'] [parameters: (1, 'tam', 3)]
+2019-04-30 16:30:54,753 - getupdateproducts - WARNING - must be str, not int
+2019-04-30 16:31:35,221 - getupdateproducts - WARNING - must be str, not int
+2019-04-30 16:31:55,643 - getupdateproducts - WARNING - must be str, not int
+2019-04-30 16:33:06,993 - getupdateproducts - WARNING - must be str, not int
+2019-04-30 16:34:43,696 - getupdateproducts - WARNING - must be str, not int
+2019-04-30 16:37:39,560 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-04-30 16:38:55,276 - getupdateproducts - WARNING - must be str, not int
+2019-04-30 16:42:16,624 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 16:52:45,843 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 16:56:33,774 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 17:04:43,586 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 17:11:27,450 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 17:35:04,329 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 17:35:36,040 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 18:00:17,659 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 18:00:34,475 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 18:02:33,779 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 18:17:24,490 - getupdateproducts - INFO - data updated successfully based on id 
+2019-04-30 18:17:45,422 - getupdateproducts - INFO - data updated successfully based on id 
+2019-05-06 16:46:52,066 - getupdateproducts - WARNING - (MySQLdb._exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE products.id = 4' at line 1") [SQL: 'UPDATE products SET  WHERE products.id = %s'] [parameters: (4,)]
+2019-05-06 16:48:16,860 - getupdateproducts - INFO - data updated successfully based on id 
+2019-05-08 16:42:27,387 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-05-09 15:02:04,171 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-05-09 15:02:30,921 - getupdateproducts - WARNING - (MySQLdb._exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE products.id = 6' at line 1") [SQL: 'UPDATE products SET  WHERE products.id = %s'] [parameters: (6,)]
+2019-05-09 15:02:45,477 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-05-09 15:03:18,079 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-05-09 15:03:32,580 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-05-09 15:03:57,896 - getupdateproducts - INFO - data updated successfully based on id 
+2019-05-09 17:41:05,500 - getupdateproducts - INFO - data feteched successfully based on id 
+2019-05-09 17:42:09,935 - getupdateproducts - INFO - data updated successfully based on id 
+2019-05-15 10:49:41,935 - getupdateproducts - WARNING - (MySQLdb._exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE products.id = 6' at line 1") [SQL: 'UPDATE products SET  WHERE products.id = %s'] [parameters: (6,)]
+2019-05-15 10:50:16,290 - getupdateproducts - WARNING - (MySQLdb._exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE products.id = 6' at line 1") [SQL: 'UPDATE products SET  WHERE products.id = %s'] [parameters: (6,)]
+2019-05-15 10:50:41,945 - getupdateproducts - WARNING - (MySQLdb._exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE products.id = 6' at line 1") [SQL: 'UPDATE products SET  WHERE products.id = %s'] [parameters: (6,)]
+2019-05-15 10:52:04,520 - getupdateproducts - WARNING - (MySQLdb._exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE products.id = 6' at line 1") [SQL: 'UPDATE products SET  WHERE products.id = %s'] [parameters: (6,)]
+2019-05-15 10:52:50,923 - getupdateproducts - INFO - data updated successfully based on id 
+2019-05-15 10:57:33,382 - getupdateproducts - WARNING - name 'productEn' is not defined
+2019-05-15 10:58:02,597 - getupdateproducts - INFO - data updated successfully based on id 
+2019-05-15 16:51:10,890 - getupdateproducts - WARNING - local variable 'x' referenced before assignment
+2019-05-15 16:51:54,143 - getupdateproducts - WARNING - 'productEn'
+2019-05-15 17:11:12,434 - getupdateproducts - INFO - data updated successfully based on id 

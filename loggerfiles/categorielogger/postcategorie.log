@@ -1,0 +1,62 @@
+2019-04-17 16:25:21,824 - postcategories - INFO - Data added successfully to Categories
+2019-04-17 18:09:01,753 - postcategories - WARNING - categorie exists already
+2019-04-17 18:09:09,094 - postcategories - INFO - Data added successfully to Categories
+2019-04-17 18:11:13,656 - postcategories - INFO - Data added successfully to Categories
+2019-04-18 10:03:00,625 - postcategories - WARNING - categorie exists already
+2019-04-18 10:18:41,379 - postcategories - WARNING - categorie exists already
+2019-04-18 10:34:46,310 - postcategories - WARNING - categorie exists already
+2019-04-18 10:36:40,786 - postcategories - WARNING - categorie exists already
+2019-04-18 12:39:07,567 - postcategories - WARNING - categorie exists already
+2019-04-18 12:43:03,232 - postcategories - WARNING - categorie exists already
+2019-04-18 12:51:38,192 - postcategories - WARNING - 400 Bad Request: Failed to decode JSON object: Expecting value: line 3 column 1 (char 16)
+2019-04-18 12:55:53,954 - postcategories - WARNING - 400 Bad Request: Failed to decode JSON object: Expecting value: line 3 column 1 (char 16)
+2019-04-18 21:18:31,927 - postcategories - INFO - Data feteched successfully of the categories
+2019-04-18 21:20:33,781 - postcategories - INFO - Data feteched successfully of the categories
+2019-04-29 10:03:25,727 - postcategories - INFO - Data feteched successfully of the categories
+2019-04-29 10:05:32,480 - postcategories - INFO - Data feteched successfully of the categories
+2019-04-29 10:05:55,909 - postcategories - INFO - Data feteched successfully of the categories
+2019-04-29 10:49:49,962 - postcategories - WARNING - 'categoryEn'
+2019-04-29 10:49:54,796 - postcategories - INFO - Data feteched successfully of the categories
+2019-04-29 12:31:45,169 - postcategories - INFO - Data feteched successfully of the categories
+2019-04-30 10:23:10,439 - postcategories - INFO - Data feteched successfully of the categories
+2019-04-30 15:57:21,940 - postcategories - INFO - Data feteched successfully of the categories
+2019-05-06 12:21:34,182 - postcategories - INFO - Data feteched successfully of the categories
+2019-05-06 12:25:55,417 - postcategories - WARNING - 'categoryEn'
+2019-05-06 12:28:32,826 - postcategories - INFO - Data posted successfully to the categories
+2019-05-06 12:30:10,950 - postcategories - WARNING - categorie exists already
+2019-05-06 12:30:24,019 - postcategories - WARNING - categorie exists already
+2019-05-06 12:30:37,064 - postcategories - WARNING - categorie exists already
+2019-05-06 12:31:07,520 - postcategories - INFO - Data posted successfully to the categories
+2019-05-06 12:31:14,068 - postcategories - WARNING - categorie exists already
+2019-05-06 12:31:52,165 - postcategories - INFO - Data posted successfully to the categories
+2019-05-06 12:31:59,748 - postcategories - WARNING - categorie exists already
+2019-05-06 12:33:22,361 - postcategories - WARNING - categorie exists already
+2019-05-06 12:33:58,584 - postcategories - WARNING - categorie exists already
+2019-05-06 12:34:29,766 - postcategories - WARNING - categorie exists already
+2019-05-06 12:34:56,475 - postcategories - INFO - Data posted successfully to the categories
+2019-05-06 12:35:02,758 - postcategories - WARNING - categorie exists already
+2019-05-06 15:23:00,559 - postcategories - INFO - Data feteched successfully of the category
+2019-05-06 15:23:38,364 - postcategories - INFO - Data feteched successfully of the category
+2019-05-08 14:59:06,978 - postcategories - INFO - Data feteched successfully of the category
+2019-05-08 15:23:44,833 - postcategories - INFO - Data feteched successfully of the category
+2019-05-08 15:24:32,216 - postcategories - INFO - Data feteched successfully of the category
+2019-05-08 16:20:02,723 - postcategories - INFO - Data feteched successfully of the category
+2019-05-09 13:54:24,780 - postcategories - INFO - Data feteched successfully of the category
+2019-05-09 14:01:01,188 - postcategories - INFO - Data feteched successfully of the category
+2019-05-09 14:06:08,096 - postcategories - INFO - Data feteched successfully of the category
+2019-05-09 14:07:03,287 - postcategories - INFO - Data feteched successfully of the category
+2019-05-09 14:10:17,112 - postcategories - INFO - Data feteched successfully of the category
+2019-05-09 15:00:10,915 - postcategories - INFO - Data posted successfully to the category
+2019-05-09 15:16:54,126 - postcategories - INFO - Data feteched successfully of the category
+2019-05-13 11:48:32,339 - postcategories - INFO - Data feteched successfully of the category
+2019-05-13 11:55:34,944 - postcategories - INFO - Data feteched successfully of the category
+2019-05-13 14:27:33,498 - postcategories - INFO - Data feteched successfully of the category
+2019-05-14 11:05:15,658 - postcategories - WARNING - name 'name' is not defined
+2019-05-14 11:06:36,618 - postcategories - WARNING - 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 15 (char 14)
+2019-05-16 10:31:32,219 - postcategories - INFO - Data feteched successfully of the category
+2019-05-16 10:32:25,678 - postcategories - WARNING - 'categoryEn'
+2019-05-16 10:32:51,013 - postcategories - INFO - Data posted successfully to the category
+2019-05-16 10:33:43,684 - postcategories - WARNING - Category exists already
+2019-05-16 10:34:27,935 - postcategories - WARNING - Category exists already
+2019-05-16 10:35:19,771 - postcategories - INFO - Data feteched successfully of the category
+2019-05-16 10:37:10,944 - postcategories - WARNING - Category exists already

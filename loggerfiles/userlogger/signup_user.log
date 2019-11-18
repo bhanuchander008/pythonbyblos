@@ -1,0 +1,13 @@
+2019-04-22 09:37:42,218 - signup_users - INFO - user sigin successfully
+2019-04-22 09:42:38,866 - signup_users - WARNING - Invalid UserName
+2019-04-22 10:03:37,851 - signup_users - INFO - user sigin successfully
+2019-04-29 10:45:58,682 - signup_users - WARNING - 'NoneType' object is not subscriptable
+2019-04-29 10:47:54,386 - signup_users - INFO - user sigin successfully
+2019-05-03 15:38:31,111 - signup_users - INFO - user sigin successfully
+2019-05-03 15:39:23,463 - signup_users - INFO - user sigin successfully
+2019-05-08 14:37:46,192 - signup_users - WARNING - 'NoneType' object has no attribute 'count'
+2019-05-08 14:47:14,845 - signup_users - INFO - user sigin successfully
+2019-05-10 11:19:59,280 - signup_users - INFO - user sigin successfully
+2019-05-10 13:05:21,379 - signup_users - INFO - user sigin successfully
+2019-05-13 09:55:23,029 - signup_users - INFO - user sigin successfully
+2019-05-13 11:53:10,096 - signup_users - INFO - user sigin successfully

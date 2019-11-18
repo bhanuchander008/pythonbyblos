@@ -1,0 +1,11 @@
+2019-05-06 16:54:08,683 - postaddresss - INFO - data feteched successfully
+2019-05-06 16:54:08,683 - postaddresss - WARNING - name 'loggers' is not defined
+2019-05-06 16:55:36,643 - postaddresss - INFO - data feteched successfully
+2019-05-06 16:58:46,676 - postaddresss - WARNING - Foreign key associated with column 'addresses.deliveryzoneId' could not find table 'deliveryzones' with which to generate a foreign key to target column 'id'
+2019-05-06 16:59:41,860 - postaddresss - WARNING - Foreign key associated with column 'addresses.deliveryzoneId' could not find table 'deliveryzones' with which to generate a foreign key to target column 'id'
+2019-05-06 17:00:17,835 - postaddresss - WARNING - Foreign key associated with column 'addresses.deliveryzoneId' could not find table 'deliveryzones' with which to generate a foreign key to target column 'id'
+2019-05-06 17:02:42,415 - postaddresss - WARNING - Foreign key associated with column 'addresses.deliveryzoneId' could not find table 'deliveryzones' with which to generate a foreign key to target column 'id'
+2019-05-06 17:17:56,548 - postaddresss - INFO - data posted successfully
+2019-05-06 17:19:39,513 - postaddresss - INFO - data posted successfully
+2019-05-09 19:11:09,734 - postaddresss - INFO - data feteched successfully
+2019-05-09 19:25:12,087 - postaddresss - INFO - data feteched successfully

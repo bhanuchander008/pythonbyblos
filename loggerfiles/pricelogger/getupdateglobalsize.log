@@ -1,0 +1,9 @@
+2019-04-18 17:53:36,491 - getupdateglobalsizes - WARNING - 'globalsizes'
+2019-04-18 18:02:23,403 - getupdateglobalsizes - WARNING - globalsize not updated
+2019-04-18 18:04:18,744 - getupdateglobalsizes - WARNING - globalsize not updated
+2019-04-18 18:06:45,581 - getupdateglobalsizes - WARNING - globalsize not updated
+2019-04-18 18:07:27,357 - getupdateglobalsizes - INFO - Data updated successfully based on id
+2019-04-18 21:17:25,809 - getupdateglobalsizes - INFO - succesffully deleted
+2019-05-15 19:11:27,060 - getupdateglobalsizes - WARNING - Multiple rows were found for one_or_none()
+2019-05-15 19:11:52,459 - getupdateglobalsizes - WARNING - globalsize already exists
+2019-05-15 19:27:27,805 - getupdateglobalsizes - WARNING - globalsize already exists

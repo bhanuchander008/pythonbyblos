@@ -1,0 +1,41 @@
+2019-04-18 21:23:51,133 - postproducts - INFO - data fetched successfully
+2019-04-26 12:20:40,451 - postproducts - WARNING - product exists already
+2019-04-26 12:20:46,283 - postproducts - INFO - data posted successfully
+2019-04-29 10:54:10,441 - postproducts - INFO - data fetched successfully
+2019-04-30 14:32:49,606 - postproducts - WARNING - Class 'builtins.dict' is not mapped
+2019-04-30 14:33:07,592 - postproducts - WARNING - Class 'builtins.dict' is not mapped
+2019-04-30 14:38:42,849 - postproducts - INFO - data posted successfully
+2019-05-07 12:55:44,061 - postproducts - WARNING - name 'Categories' is not defined
+2019-05-07 12:56:25,438 - postproducts - WARNING - (MySQLdb._exceptions.OperationalError) (1066, "Not unique table/alias: 'products'") [SQL: 'SELECT products.id AS products_id, products.hid AS products_hid, products.`productEn` AS `products_productEn`, products.`productAr` AS `products_productAr`, products.`imagePath` AS `products_imagePath`, products.`isActive` AS `products_isActive`, products.`categoryId` AS `products_categoryId`, products.`createdAt` AS `products_createdAt`, products.`updatedAt` AS `products_updatedAt`, products.`descEn` AS `products_descEn`, products.`descAr` AS `products_descAr`, products.`modifierId` AS `products_modifierId`, products.`globalsizeId` AS `products_globalsizeId`, products.taxable AS products_taxable, prices_1.id AS prices_1_id, prices_1.`sizeId` AS `prices_1_sizeId`, prices_1.`productId` AS `prices_1_productId`, prices_1.price AS prices_1_price, prices_1.`createdAt` AS `prices_1_createdAt`, prices_1.`updatedAt` AS `prices_1_updatedAt` \nFROM products LEFT OUTER JOIN categories ON categories.id = products.`categoryId` LEFT OUTER JOIN products ON categories.id = products.`categoryId` LEFT OUTER JOIN prices AS prices_1 ON products.id = prices_1.`productId` \nWHERE categories.`isActive` = true']
+2019-05-07 12:57:03,905 - postproducts - WARNING - 'Query' object has no attribute 'leftouterjoin'
+2019-05-07 12:57:27,281 - postproducts - WARNING - 'Query' object has no attribute 'innerjoin'
+2019-05-07 13:02:01,619 - postproducts - WARNING - Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Products.categoryId has an attribute 'isActive'
+2019-05-07 13:02:59,423 - postproducts - WARNING - Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Products.categoryId has an attribute 'isActive'
+2019-05-07 13:07:05,984 - postproducts - WARNING - Can't join table/selectable 'products' to itself
+2019-05-07 13:28:30,187 - postproducts - WARNING - mapper
+2019-05-07 13:29:04,617 - postproducts - WARNING - mapper
+2019-05-07 13:46:53,031 - postproducts - INFO - data fetched successfully
+2019-05-07 13:49:23,098 - postproducts - WARNING - name 'categoriesmodel' is not defined
+2019-05-07 13:49:55,893 - postproducts - WARNING - name 'categoriesmodel' is not defined
+2019-05-07 13:50:53,301 - postproducts - WARNING - name 'categoriesmodel' is not defined
+2019-05-07 13:51:40,483 - postproducts - INFO - data fetched successfully
+2019-05-07 13:56:37,225 - postproducts - INFO - data fetched successfully
+2019-05-07 14:02:28,838 - postproducts - INFO - data fetched successfully
+2019-05-07 15:25:55,549 - postproducts - INFO - data fetched successfully
+2019-05-08 14:56:59,928 - postproducts - INFO - data fetched successfully
+2019-05-08 15:20:20,023 - postproducts - INFO - data fetched successfully
+2019-05-08 15:22:30,276 - postproducts - INFO - data fetched successfully
+2019-05-09 13:54:00,749 - postproducts - INFO - data fetched successfully
+2019-05-09 14:14:37,196 - postproducts - WARNING - type object 'Products' has no attribute 'categorie_product'
+2019-05-09 14:16:08,293 - postproducts - INFO - data fetched successfully
+2019-05-09 14:56:09,332 - postproducts - INFO - data posted successfully
+2019-05-09 14:57:07,712 - postproducts - INFO - data posted successfully
+2019-05-10 16:20:12,806 - postproducts - INFO - data fetched successfully
+2019-05-13 09:52:44,688 - postproducts - INFO - data fetched successfully
+2019-05-14 11:18:05,741 - postproducts - WARNING - name 'prodProduct_nameuctEn' is not defined
+2019-05-14 11:19:14,856 - postproducts - INFO - data fetched successfully
+2019-05-15 11:32:58,690 - postproducts - INFO - data posted successfully
+2019-05-15 11:34:46,518 - postproducts - WARNING - product exists already
+2019-05-15 11:35:02,476 - postproducts - INFO - data posted successfully
+2019-05-15 18:10:38,331 - postproducts - WARNING - 'NoneType' object is not subscriptable
+2019-05-15 18:28:14,367 - postproducts - WARNING - 'NoneType' object is not subscriptable

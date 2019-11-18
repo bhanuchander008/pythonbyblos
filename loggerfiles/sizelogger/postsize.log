@@ -1,0 +1,7 @@
+2019-04-20 12:34:39,465 - postsizes - INFO - data feteched successfully
+2019-04-30 09:57:24,428 - postsizes - WARNING - 'NoneType' object has no attribute 'get'
+2019-04-30 09:57:49,999 - postsizes - WARNING - 'NoneType' object has no attribute 'get'
+2019-04-30 09:58:37,687 - postsizes - INFO - data feteched successfully
+2019-06-04 17:17:15,424 - postsizes - INFO - data feteched successfully
+2019-06-04 17:17:24,242 - postsizes - WARNING - Multiple rows were found for one_or_none()
+2019-06-04 17:19:14,082 - postsizes - WARNING - Size name exists already

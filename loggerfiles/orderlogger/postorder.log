@@ -1,0 +1,24 @@
+2019-04-18 21:21:48,714 - postorders - INFO - data feteched successfully
+2019-04-19 17:12:22,008 - postorders - WARNING - Class 'builtins.dict' is not mapped
+2019-04-19 17:13:01,352 - postorders - INFO - data posted successfully
+2019-04-19 18:01:45,897 - postorders - INFO - data posted successfully
+2019-04-20 15:01:21,546 - postorders - INFO - data posted successfully
+2019-04-29 10:10:03,666 - postorders - INFO - data feteched successfully
+2019-04-29 10:25:07,825 - postorders - WARNING - "deliverPrice" is not a valid field for <models.ordersmodel.Orders object at 0x7efca50de320>.
+2019-04-29 10:25:26,700 - postorders - INFO - data feteched successfully
+2019-04-29 10:26:24,270 - postorders - INFO - data feteched successfully
+2019-04-29 11:14:19,948 - postorders - INFO - data feteched successfully
+2019-04-30 09:39:30,867 - postorders - INFO - data feteched successfully
+2019-04-30 11:09:41,496 - postorders - INFO - data feteched successfully
+2019-05-08 15:08:56,028 - postorders - INFO - data feteched successfully
+2019-05-15 16:16:32,590 - postorders - INFO - data posted successfully
+2019-05-15 16:16:43,273 - postorders - INFO - data posted successfully
+2019-05-15 16:16:51,487 - postorders - INFO - data posted successfully
+2019-05-15 16:17:04,241 - postorders - INFO - data posted successfully
+2019-05-15 16:17:13,049 - postorders - INFO - data posted successfully
+2019-05-15 16:17:22,527 - postorders - INFO - data posted successfully
+2019-05-15 16:18:12,894 - postorders - INFO - data posted successfully
+2019-05-15 16:18:23,689 - postorders - WARNING - 400 Bad Request: Failed to decode JSON object: Invalid control character at: line 5 column 20 (char 70)
+2019-05-15 16:18:33,512 - postorders - INFO - data posted successfully
+2019-05-15 16:18:47,626 - postorders - INFO - data posted successfully
+2019-05-15 16:18:57,734 - postorders - INFO - data posted successfully

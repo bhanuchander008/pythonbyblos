@@ -1,0 +1,28 @@
+2019-04-18 21:19:09,099 - getupdatecategories - INFO - categorie deleted successfully
+2019-04-18 21:19:09,100 - getupdatecategories - WARNING - name 'loggers' is not defined
+2019-04-18 21:20:06,838 - getupdatecategories - WARNING - categorie not deleted on this id
+2019-04-18 21:20:22,697 - getupdatecategories - WARNING - categorie not deleted on this id
+2019-04-18 21:20:59,634 - getupdatecategories - INFO - categorie deleted successfully
+2019-05-08 15:33:04,639 - getupdatecategories - WARNING - No data found on this id
+2019-05-08 15:33:15,925 - getupdatecategories - WARNING - No data found on this id
+2019-05-08 15:33:30,599 - getupdatecategories - INFO - Data fetched successfully based on id 
+2019-05-08 16:21:54,275 - getupdatecategories - INFO - Data fetched successfully based on id 
+2019-05-08 16:22:16,198 - getupdatecategories - WARNING - name 'CategoriesGetSchemas' is not defined
+2019-05-08 16:27:09,014 - getupdatecategories - INFO - Data fetched successfully based on id 
+2019-05-08 16:28:13,735 - getupdatecategories - WARNING - name 'CategoriesGetSchemas' is not defined
+2019-05-08 16:28:52,435 - getupdatecategories - WARNING - 'Categories' object does not support indexing
+2019-05-08 16:32:05,893 - getupdatecategories - INFO - Data fetched successfully based on id 
+2019-05-08 16:35:43,190 - getupdatecategories - INFO - Data fetched successfully based on id 
+2019-05-08 16:36:57,345 - getupdatecategories - WARNING - name 'CategoriesGetSchemas' is not defined
+2019-05-08 16:38:33,301 - getupdatecategories - WARNING - 'Categories' object does not support indexing
+2019-05-08 16:38:56,176 - getupdatecategories - INFO - Data fetched successfully based on id 
+2019-05-09 16:25:54,047 - getupdatecategories - INFO - Data fetched successfully based on id 
+2019-05-09 16:26:33,124 - getupdatecategories - WARNING - (MySQLdb._exceptions.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE categories.id = 6' at line 1") [SQL: 'UPDATE categories SET  WHERE categories.id = %s'] [parameters: (6,)]
+2019-05-09 16:29:19,849 - getupdatecategories - INFO - Data updated successfully based on id 
+2019-05-09 16:32:25,345 - getupdatecategories - INFO - Data updated successfully based on id 
+2019-05-09 16:34:49,805 - getupdatecategories - INFO - Data updated successfully based on id 
+2019-05-09 16:36:04,350 - getupdatecategories - INFO - Data updated successfully based on id 
+2019-05-09 16:38:20,775 - getupdatecategories - INFO - Data updated successfully based on id 
+2019-05-09 16:39:09,846 - getupdatecategories - INFO - Data updated successfully based on id 
+2019-05-15 13:56:20,177 - getupdatecategories - INFO - Data fetched successfully based on id 
+2019-05-15 17:08:28,953 - getupdatecategories - WARNING - Category data not updated

@@ -1,0 +1,28 @@
+2019-05-03 15:41:11,335 - signin_users - WARNING - email already exists
+2019-05-03 15:41:20,399 - signin_users - INFO - user signup successfully
+2019-05-03 15:43:26,715 - signin_users - WARNING - email already exists
+2019-05-03 15:43:34,574 - signin_users - WARNING - name 'UsersSchemas' is not defined
+2019-05-03 15:43:51,221 - signin_users - WARNING - email already exists
+2019-05-03 15:44:04,841 - signin_users - INFO - user signup successfully
+2019-05-08 20:26:43,205 - signin_users - WARNING - name 'func' is not defined
+2019-05-08 20:27:49,049 - signin_users - WARNING - name 'Orders' is not defined
+2019-05-08 20:28:17,789 - signin_users - WARNING - name 'UsercountSchema' is not defined
+2019-05-08 20:28:47,720 - signin_users - INFO - data feteched successfully
+2019-05-08 20:29:29,163 - signin_users - INFO - data feteched successfully
+2019-05-08 20:34:09,555 - signin_users - INFO - user signup successfully
+2019-05-09 09:14:07,026 - signin_users - WARNING - 'builtin_function_or_method' object is not iterable
+2019-05-09 09:16:50,463 - signin_users - WARNING - email already exists
+2019-05-09 09:17:00,153 - signin_users - INFO - user signup successfully
+2019-05-09 10:22:04,929 - signin_users - WARNING - email already exists
+2019-05-09 10:22:12,161 - signin_users - INFO - user signup successfully
+2019-05-09 10:47:22,236 - signin_users - INFO - user signup successfully
+2019-05-09 11:03:55,410 - signin_users - WARNING - name 'dictionary' is not defined
+2019-05-09 11:03:58,271 - signin_users - WARNING - name 'dictionary' is not defined
+2019-05-09 11:04:11,645 - signin_users - WARNING - name 'dictionary' is not defined
+2019-05-09 11:04:29,527 - signin_users - WARNING - name 'mobile' is not defined
+2019-05-09 11:04:43,861 - signin_users - WARNING - '12345678'
+2019-05-09 11:04:58,728 - signin_users - WARNING - 'mobile'
+2019-05-09 11:06:11,019 - signin_users - INFO - user signup successfully
+2019-05-09 11:08:33,366 - signin_users - WARNING - email already exists
+2019-05-09 11:08:39,503 - signin_users - INFO - user signup successfully
+2019-05-09 11:14:16,672 - signin_users - INFO - user signup successfully
